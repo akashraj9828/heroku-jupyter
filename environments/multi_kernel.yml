@@ -21,3 +21,9 @@ dependencies:
   - pip:
     - pgcontents
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
+    - live-server
+    - http-server
+    - pandas
+    - numpy
+    - sklearn
+    - matplotlib

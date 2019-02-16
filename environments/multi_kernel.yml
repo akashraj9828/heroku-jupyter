@@ -18,10 +18,10 @@ dependencies:
   - six
   - sqlalchemy
   - nose
-  - live-server
+  - scipy 
   - pandas
   - numpy
-  - sklearn
+  - scikit-learn
   - matplotlib
   - pip:
     - pgcontents

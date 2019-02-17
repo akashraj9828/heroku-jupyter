@@ -21,7 +21,6 @@ dependencies:
   - scipy 
   - pandas
   - numpy
-  - scikit-learn
   - matplotlib
   - pip:
     - pgcontents

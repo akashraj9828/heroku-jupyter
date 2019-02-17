@@ -17,8 +17,7 @@ dependencies:
   - psycopg2
   - six
   - sqlalchemy
-  - nose
-  - scipy 
+  - nose 
   - pandas
   - numpy
   - matplotlib

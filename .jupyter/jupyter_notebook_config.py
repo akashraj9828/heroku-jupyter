@@ -6,7 +6,7 @@ try:
     import pgcontents
 
     c = get_config()
-
+    c.NotebookApp.allow_root=True
     ### Password protection ###
     # http://jupyter-notebook.readthedocs.io/en/latest/security.html
     if os.environ.get('JUPYTER_NOTEBOOK_PASSWORD_DISABLED') != 'DangerZone!':

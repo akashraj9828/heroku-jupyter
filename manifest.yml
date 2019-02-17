@@ -2,7 +2,7 @@
 ---
 applications:
 - name: jupyter
-  memory: 1024M
+  memory: 512M
   instances: 1
   buildpack: https://github.com/akashraj9828/heroku-buildpack-conda.git
   random-route: true
